@@ -1,7 +1,7 @@
-počítač
+﻿počítač
 postel
-bazén
 hovno
+židle
 spacák
 dům
 
