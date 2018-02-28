@@ -3,4 +3,6 @@ postel
 bazén
 hovno
 spacák
+dům
+
 
